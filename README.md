@@ -36,3 +36,4 @@ Esto te abrirá una url local [http://localhost:3000](http://localhost:3000) don
 - [Atomic Design](https://www.uifrommars.com/atomic-design-ventajas/)
 - [Formik](https://formik.org/)
 - [MUI](https://mui.com/material-ui/getting-started/overview/)
+- [Json-Server](https://www.npmjs.com/package/json-server) dentro del archivo `db.js` existen datos de prueba.

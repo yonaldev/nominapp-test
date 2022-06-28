@@ -17,15 +17,6 @@
       "password": "Hola123$$&*",
       "confirm-password": "Hola123$$&*",
       "id": 2
-    },
-    {
-      "name": "Emily",
-      "lastName": "Londono",
-      "email": "emily@gmail.com",
-      "cellphone": "1234567",
-      "password": "Hola123$%^",
-      "confirm-password": "Hola123$%^",
-      "id": 3
     }
   ],
   "products": [
