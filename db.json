@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "Yonal Alexis",
+      "lastName": "Londoño",
+      "email": "yonaldev@gmail.com",
+      "cellphone": "3174407198",
+      "password": "HrZymaF8!dfgh",
+      "confirm-password": "HrZymaF8!dfgh",
+      "id": 1
+    },
+    {
+      "name": "Emily",
+      "lastName": "Londono",
+      "email": "emily@gmail.com",
+      "cellphone": "1234567",
+      "password": "Hola123$$&*",
+      "confirm-password": "Hola123$$&*",
+      "id": 2
+    },
+    {
+      "name": "Emily",
+      "lastName": "Londono",
+      "email": "emily@gmail.com",
+      "cellphone": "1234567",
+      "password": "Hola123$%^",
+      "confirm-password": "Hola123$%^",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Bicicleta",
+      "img": "https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png",
+      "description": "lorem",
+      "price": 123
+    },
+    {
+      "id": 2,
+      "name": "Moto",
+      "img": "https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png",
+      "description": "lorem",
+      "price": 123
+    },
+    {
+      "id": 3,
+      "name": "zapatos",
+      "img": "https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png",
+      "description": "lorem",
+      "price": 123
+    },
+    {
+      "id": 4,
+      "name": "Vestido",
+      "img": "https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png",
+      "description": "lorem",
+      "price": 123
+    },
+    {
+      "id": 5,
+      "name": "Pantalon",
+      "img": "https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png",
+      "description": "lorem",
+      "price": 123
+    },
+    {
+      "name": "Carro",
+      "description": "mas.,mdmd;lqw",
+      "img": "https://nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png",
+      "price": "1234567",
+      "id": 9
+    },
+    {
+      "name": "asd",
+      "description": "ersdtfyguhijok",
+      "img": "https://nayemdevs.com/wp-content/uploads/2020/03/default-product-image.png",
+      "price": "300000",
+      "id": 10
+    }
+  ]
+}
